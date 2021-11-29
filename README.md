@@ -8,6 +8,9 @@ Download '[Photopea-AppImage](https://github.com/spooknik/Photopea-Appimage/rele
 
 If somethings goes wrong or doesn't look right inside the app, delete ~/.config/Photopea. This is the cache folder location for the app. 
 
+**Linux install**
+link to linux app (https://www.linux-apps.com/p/1285935/)
+
 You can build the source by running build.sh. Requires [yarn](https://yarnpkg.com/lang/en/) and Electron
 
 Also see: [Photopea-Windows](https://github.com/spooknik/Photopea-Windows) for a Windows verison. 
